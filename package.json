@@ -1,5 +1,5 @@
 {
-  "name": "react-native-map-clustering",
+  "name": "react-native-map-clustering-driveco",
   "version": "3.4.2",
   "description": "React Native Map Clustering both for Android and iOS",
   "types": "index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HyacintheHamon/react-native-map-clustering.git"
+    "url": "git+https://github.com/HyacintheHamon/react-native-map-clustering-driveco.git"
   },
   "keywords": [
     "react-native",
@@ -23,9 +23,9 @@
   "author": "Venits",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HyacintheHamon/react-native-map-clustering/issues"
+    "url": "https://github.com/HyacintheHamon/react-native-map-clustering-driveco/issues"
   },
-  "homepage": "https://github.com/venits/react-native-map-clustering#readme",
+  "homepage": "https://github.com/venits/react-native-map-clustering-driveco#readme",
   "dependencies": {
     "supercluster": "^8.0.1",
     "@mapbox/geo-viewport": "^0.5.0"
